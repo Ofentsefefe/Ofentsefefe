@@ -1,6 +1,6 @@
 <div align="center">
 
-# OFENTSEFE
+# Ofentse 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Software+Engineering;Cloud+Engineering;Artificial+Intelligence;Data+Engineering;Cybersecurity;Building+what's+next." alt="Typing Animation"/>
 
