@@ -10,7 +10,7 @@
 
 <br>
 
-<a href="https://tech-company-portfoloi.vercel.app/">
+<a href="https://ofentsefefe.github.io/my-personal-websiteV1.5/">
 <img src="https://img.shields.io/badge/🌐%20VISIT%20MY%20WEBSITE-161B22?style=for-the-badge&logo=vercel&logoColor=58A6FF" alt="Visit Website"/>
 </a>
 
