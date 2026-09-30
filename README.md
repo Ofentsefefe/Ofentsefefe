@@ -14,10 +14,6 @@
 <img src="https://img.shields.io/badge/🌐%20VISIT%20MY%20WEBSITE-161B22?style=for-the-badge&logo=vercel&logoColor=58A6FF" alt="Visit Website"/>
 </a>
 
-<a href="https://github.com/Ofentsefefe">
-<img src="https://img.shields.io/badge/💻%20GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
 </div>
 
 ---
@@ -25,6 +21,7 @@
 <div align="center">
 
 ### `BUILD • AUTOMATE • SECURE • SCALE`
+### `From whispers of an idea to a wave that changes everything `
 
 </div>
 
