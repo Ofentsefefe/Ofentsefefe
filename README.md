@@ -21,7 +21,7 @@
 <div align="center">
 
 ### `BUILD • AUTOMATE • SECURE • SCALE`
-### `From whispers of an idea to a wave that changes everything `
+## `From whispers of an idea to a wave that changes everything `
 
 </div>
 
