@@ -33,18 +33,18 @@
 
 ```text
 ╔════════════════════════════════════════════════════════════╗
-║                    SYSTEM DIAGNOSTICS                     ║
+║                    SYSTEM DIAGNOSTICS                      ║
 ╠════════════════════════════════════════════════════════════╣
 ║                                                            ║
-║  CORE SYSTEM      M  ████████████████████   ONLINE          ║
-║  SOFTWARE            ████████████████████   ONLINE          ║
-║  CLOUD               ███████████████████░   ACTIVE          ║
+║  CORE SYSTEM      M  ████████████████████   ONLINE         ║
+║  SOFTWARE            ████████████████████   ONLINE         ║
+║  CLOUD               ███████████████████░   ACTIVE         ║
 ║  AI                  ████████████████████  ACTIVE          ║
-║  DATA SYSTEMS        ████████████████████   ACTIVE          ║
-║  SECURITY            ███████████████████░   ACTIVE          ║
-║  AUTOMATION          ████████████████████   ONLINE          ║
-║  CREATIVITY          ████████████████████   ONLINE          ║
-║  COFFEE              ████████████░░░░░░░░░  LOADING         ║
+║  DATA SYSTEMS        ████████████████████   ACTIVE         ║
+║  SECURITY            ███████████████████░   ACTIVE         ║
+║  AUTOMATION          ████████████████████   ONLINE         ║
+║  CREATIVITY          ████████████████████   ONLINE         ║
+║  COFFEE              ████████████░░░░░░░░░  LOADING        ║
 ║                                                            ║
 ╠════════════════════════════════════════════════════════════╣
 ║                                                            ║
