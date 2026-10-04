@@ -2,7 +2,7 @@
 
 # Ofentse 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Cloud+Engineer;Software+Engineer;Artificial+Intelligence;Data+Engineer;Tech+enthusiast;Building+what's+next." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Cloud+Engineer;Software+Engineer;Artificial+Intelligence;Data+Engineer;Tech+enthusiast;Building+what's+next..." alt="Typing Animation"/>
 
 <br>
 
