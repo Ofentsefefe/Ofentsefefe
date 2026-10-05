@@ -36,7 +36,7 @@
 ║                    SYSTEM DIAGNOSTICS                      ║
 ╠════════════════════════════════════════════════════════════╣
 ║                                                            ║
-║  CORE SYSTEM      M  ████████████████████   ONLINE         ║
+║  CORE SYSTEM         ████████████████████   ONLINE         ║
 ║  SOFTWARE            ████████████████████   ONLINE         ║
 ║  CLOUD               ███████████████████░   ACTIVE         ║
 ║  AI                  ████████████████████  ACTIVE          ║
